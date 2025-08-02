@@ -1,5 +1,5 @@
 $logFile = "E:\projects\batteryalert\log2.txt"
-$scriptPath = "E:\projects\batteryalert\laptop_charging_alert.ps1"
+$scriptPath = "E:\projects\batteryalert\battery_alert_aug2025_updated.ps1"
 
 while ($true) {
     # Overwrite log.txt at the beginning of each loop
