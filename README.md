@@ -49,3 +49,11 @@ To schedule `loopRunner.ps1` permanently in Windows 10 using NSSM:
 - Make sure to run PowerShell commands with Administrator privileges
 - The service will start automatically with Windows if set to Automatic startup type
 - Check Windows Event Viewer for any service-related errors
+
+
+<img width="443" height="211" alt="image" src="https://github.com/user-attachments/assets/00d2f22f-140d-4f03-8d23-7b1c55a2c826" />
+
+<img width="326" height="177" alt="image" src="https://github.com/user-attachments/assets/0a2f0e5e-0f90-4ee9-90e6-a42dbf1a4991" />
+
+
+
