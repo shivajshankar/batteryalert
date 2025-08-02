@@ -1,6 +1,8 @@
 # Battery Alert System
 
 This project contains scripts to monitor and alert on battery status in Windows 10.
+It will send an alert notification to Windows notification panel (bottom right of your screen) if battery charge is > 50% so that you can switch off the powersupply. 
+If you are using a laptop or desktop where the power cord does not have a grounding pin, then you are at risk of the voltage induced into you due to the laptop always being charged and without proper grounding. Hence, its always better to work on a laptop that is charged and power point switched off. 
 
 ## Prerequisites
 - Windows 10
